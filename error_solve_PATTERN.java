@@ -1,4 +1,4 @@
-public class HeartPatternExample1  
+public class error_solve_PATTERN 
 {  
         // main() method start  
         public static void main(String[] args)  
